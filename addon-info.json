@@ -1,0 +1,16 @@
+{
+  "name" : "vim-inky-snippets",
+  "author" : "Felipe G. Hespanhol <https://github.com/felipehespanhol>",
+  "repository" : { "type": "git", "url": "git://github.com/felipehespanhol/vim-inky-snippets.git" },
+  "dependencies" : {
+    "snipmate": {
+     "type": "git",
+     "url": "https://github.com/garbas/vim-snipmate"
+    },
+    "vim-inky": {
+     "type": "git",
+     "url": "https://github.com/M4R7iNP/vim-inky"
+    }
+  },
+  "description" : "Vim snippets file for Inky emails templating language"
+}
